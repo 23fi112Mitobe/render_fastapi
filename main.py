@@ -25,7 +25,7 @@ def index():
     html_content = """
     <html>
         <head>
-            <title>Some HTML in here</title>
+            <title>programing is hard</title>
         </head>
         <body>
             <h1>プログラミング大変だ！</h1>
